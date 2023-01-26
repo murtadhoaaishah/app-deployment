@@ -20,7 +20,7 @@ function App() {
     //   </header>
     // </div>
     <div>
-      <nav>
+      {/* <nav>
         <ul id="navigation">
           <li>
             <Link to="/">Home</Link>
@@ -42,7 +42,10 @@ function App() {
           <About />
         </Route>
       </Switch>
-    </div>n
+    </div> */}
+      {/* <hi></hi> */}
+      <h1>HELLO WORLD</h1>
+    </div>
   );
 }
 
